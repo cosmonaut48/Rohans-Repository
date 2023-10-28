@@ -1,0 +1,1 @@
+These files are database CRUD applications with varying complexities. Each will have a db.txt file included where you can copy-paste the SQL code to create this database. Of course, it is expected to reach the index.php page first
